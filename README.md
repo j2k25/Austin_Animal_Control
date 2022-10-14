@@ -3,6 +3,7 @@ Data Science Project Predicting Survival of Lost Dogs in Austin, TX
 
 COSC 3337 - Data Science
 Group 10: Alex, Jarrod, Thomas & Jerry
+
 Our dataset is the Austin Animal Center Shelter Intakes and Outcomes by Aaron Schlegel on kaggle.com and contains about 80,000 shelter animal intakes and their resulting outcomes (https://www.kaggle.com/aaronschlegel/austin-animal-center-shelter-intakes-and-outcomes?select=aac_intakes_outcomes.csv).
 
 The Austin Animal Center is the largest no-kill animal shelter in the United States that provides care and shelter to over 18,000 animals each year. As part of the AAC's efforts to help and care for animals in need, the organization makes available its accumulated data and statistics as part of the city of Austin's Open Data Initiative (https://data.austintexas.gov/).
